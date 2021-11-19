@@ -33,7 +33,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    2Laravel
+                    2Laravel2
                 </div>
             </div>
         </div>
