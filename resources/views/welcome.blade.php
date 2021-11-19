@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>2KINOFUN</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -33,7 +33,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    2Laravel2
+                    2KINOFUN
                 </div>
             </div>
         </div>
