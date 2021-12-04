@@ -17,6 +17,6 @@ jobs:
         port: ${{ secrets.PORT }}
         envs: URL
         script: |
-         cd /www/wwwroot/2kino.fun
+         cd /www/wwwroot/2kino.fun1
          git init
          git pull $URL
